@@ -16,5 +16,4 @@ This project implements a **data-driven Monte Carlo simulation** to forecast COV
 1. Mount your Google Drive in Colab and provide the path to your CSV dataset.
 2. Run the simulation and plotting functions:
 
-   * `plot_state_forecast("LA")` — forecast for a single state
-   * `plot_all_states()` — forecast for all states
+   * `plot_state_forecast("MS")` — forecast for a single state
